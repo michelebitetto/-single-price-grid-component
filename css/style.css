@@ -110,9 +110,9 @@ button:hover {
     "sign-up why-us";
   grid-template-rows: 48% 52%;
   grid-template-columns: 50% 50%;
-  background: white;
+  background: var(--color-white);
   border-radius: var(--border-grid);
-  box-shadow: 0px 0px 20px #8181811a;
+  box-shadow: 0px 0px 25px #8181811a;
 }
 
 .sctn-join-community {
